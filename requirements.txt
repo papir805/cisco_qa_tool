@@ -5,3 +5,4 @@ pinecone-client==2.2.4
 tiktoken
 requests-html==0.10.0
 pypdf
+lxml[html_clean]
