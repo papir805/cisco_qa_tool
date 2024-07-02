@@ -6,3 +6,4 @@ tiktoken
 requests-html
 pypdf
 lxml[html_clean]
+langchain-community
